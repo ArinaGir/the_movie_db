@@ -15,7 +15,7 @@ class _AuthWidgetState extends State<AuthWidget> {
       appBar: AppBar(
         centerTitle: true,
         title: const Text(
-          "Войти в свою учетную запись",
+          "Войти в свою учетную запись!",
           style: TextStyle(color: Colors.white),
         ),
       ),
